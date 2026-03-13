@@ -1,0 +1,13 @@
+[project]
+name = "ecommerce-scraper"
+version = "0.1.0"
+description = "A web scraper for static e-commerce sites using Beautiful Soup"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.32.5",
+]
+
+[project.scripts]
+scraper = "src.main:main"

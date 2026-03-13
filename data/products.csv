@@ -1,0 +1,19 @@
+category,subcategory,title,price,product_url,image_url,description,review_count,rating,specs,source_page
+computers,laptops,Packard 255 G2,416.99,https://webscraper.io/test-sites/e-commerce/static/product/31,,"15.6"", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",0,0,,1
+computers,laptops,Aspire E1-510,306.99,https://webscraper.io/test-sites/e-commerce/static/product/32,,"15.6"", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",0,0,,1
+computers,laptops,ThinkPad T540p,1178.99,https://webscraper.io/test-sites/e-commerce/static/product/33,,"15.6"", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",0,0,,1
+computers,laptops,ProBook,739.99,https://webscraper.io/test-sites/e-commerce/static/product/34,,"14"", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",0,0,,1
+computers,laptops,ThinkPad X240,1311.99,https://webscraper.io/test-sites/e-commerce/static/product/35,,"12.5"", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",0,0,,1
+computers,laptops,Aspire E1-572G,581.99,https://webscraper.io/test-sites/e-commerce/static/product/36,,"15.6"", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",0,0,,1
+computers,tablets,Lenovo IdeaTab,69.99,https://webscraper.io/test-sites/e-commerce/static/product/10,,"7"" screen, Android",0,0,,1
+computers,tablets,Acer Iconia,96.99,https://webscraper.io/test-sites/e-commerce/static/product/11,,"7"" screen, Android, 16GB",0,0,,1
+computers,tablets,Asus MeMO Pad,102.99,https://webscraper.io/test-sites/e-commerce/static/product/12,,"7"" screen, Android, 8GB",0,0,,1
+computers,tablets,Amazon Kindle,103.99,https://webscraper.io/test-sites/e-commerce/static/product/13,,"6"" screen, wifi",0,0,,1
+computers,tablets,iPad Mini Retina,537.99,https://webscraper.io/test-sites/e-commerce/static/product/14,,"Wi-Fi + Cellular, 32GB, Silver",0,0,,1
+computers,tablets,IdeaTab A3500L,88.99,https://webscraper.io/test-sites/e-commerce/static/product/15,,"Black, 7"" IPS, Quad-Core 1.2GHz, 8GB, Android 4.2",0,0,,1
+phones,touch,Nokia 123,24.99,https://webscraper.io/test-sites/e-commerce/static/product/1,,7 day battery,0,0,,1
+phones,touch,LG Optimus,57.99,https://webscraper.io/test-sites/e-commerce/static/product/2,,"3.2"" screen",0,0,,1
+phones,touch,Samsung Galaxy,93.99,https://webscraper.io/test-sites/e-commerce/static/product/3,,5 mpx. Android 5.0,0,0,,1
+phones,touch,Nokia X,109.99,https://webscraper.io/test-sites/e-commerce/static/product/4,,"Andoid, Jolla dualboot",0,0,,1
+phones,touch,Sony Xperia,118.99,https://webscraper.io/test-sites/e-commerce/static/product/5,,"GPS, waterproof",0,0,,1
+phones,touch,Ubuntu Edge,499.99,https://webscraper.io/test-sites/e-commerce/static/product/6,,Sapphire glass,0,0,,1

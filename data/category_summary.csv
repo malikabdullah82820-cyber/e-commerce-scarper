@@ -1,0 +1,4 @@
+category_subcategory,total_products,avg_price,min_price,max_price,missing_descriptions,duplicates_removed
+computers_laptops,6,756.16,306.99,1311.99,0,0
+computers_tablets,6,166.82,69.99,537.99,0,0
+phones_touch,6,150.99,24.99,499.99,0,0
