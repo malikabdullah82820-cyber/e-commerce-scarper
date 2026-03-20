@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Scrapy
+.scrapy/
+logs/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and artifacts
+*.csv
+*.json
+jobs_*.csv
+job_links_*.csv
+*.xlsx
+
+# Selenium
+*.log
+webdriver_logs/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Project specific
+data/raw/*.csv
+data/final/*.csv
+*.db
+.env
